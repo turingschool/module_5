@@ -13,5 +13,6 @@ Module 5 resources and lesson plans for all first job searchers
     * Create a cover letter for a real job posting
 * Before Fourth Session:
     * Review behavioral interview question bank [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/mock_behavioral_interview_template.md)
+    * Review best practices document
 * Before Fifth Session:
     * Complete take home challenge
