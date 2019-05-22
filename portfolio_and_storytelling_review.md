@@ -1,3 +1,11 @@
 # Portfolio & Storytelling Review
 
-### More info....
+### Homework
+
+### Purpose
+
+### Structure
+
+### Take Aways/Next Steps
+
+### Additional Resources
