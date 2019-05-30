@@ -12,3 +12,4 @@
 ### Take Aways/Next Steps
   
 ### Additional Resources
+  - [A Beginner's Guide to the Technical Interview](https://learntocodewith.me/posts/technical-interview/).
