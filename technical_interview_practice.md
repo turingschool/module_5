@@ -4,7 +4,7 @@
   - Complete the assigned technical challenge
   
 ### Purpose
-For new job seekers, the technical interview can be a scary unknown. 
+For new job seekers, the technical interview can be a scary unknown. This session aims to break down those unknowns and give you a foundation for further practice and confidence in the interview.
 ### Structure
   - Review homework
   - Talk best practices for white board interviews & take home challenges
@@ -12,6 +12,10 @@ For new job seekers, the technical interview can be a scary unknown.
 ### Content
 #### Technical Best Practices
 #### Non-technical Best Practices
+     White board interviews
+     -
+     Take home challenges
+     -
 ### Take Aways/Next Steps
   
 ### Additional Resources
