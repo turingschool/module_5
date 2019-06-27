@@ -9,6 +9,9 @@ For new job seekers, the technical interview can be a scary unknown.
   - Review homework
   - Talk best practices for white board interviews & take home challenges
   - Questions
+### Content
+#### Technical Best Practices
+#### Non-technical Best Practices
 ### Take Aways/Next Steps
   
 ### Additional Resources
