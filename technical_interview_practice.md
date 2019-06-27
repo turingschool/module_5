@@ -12,10 +12,11 @@ For new job seekers, the technical interview can be a scary unknown. This sessio
 ### Content
 #### Technical Best Practices
 #### Non-technical Best Practices
-     White board interviews
-     -
-     Take home challenges
-     -
+White Board Interviews
+-
+Take Home Challenges
+-
+     
 ### Take Aways/Next Steps
   
 ### Additional Resources
