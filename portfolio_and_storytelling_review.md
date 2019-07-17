@@ -13,6 +13,8 @@
   4) Whole group workshopping
   5) Small group workshopping
   6) Regroup and review
-### Take Aways/Next Steps
 
-### Additional Resources
+### Next Steps
+  - Complete 'Junior Developer Flower Exercise' prior to next week's session.
+  - Continue to practice your story with friends, family or the mirror.
+
