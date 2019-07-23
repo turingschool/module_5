@@ -15,7 +15,7 @@ Structure:
 * Closing (2 mins)
 
 ### Prework for Session
-In order to participate in the session, pleaes retake the Pairin survey [here](
+1. In order to participate in the session, please retake the Pairin survey [here](
 
 Important reminders for taking the survey:
 *
@@ -24,7 +24,13 @@ Important reminders for taking the survey:
 
 You should allow 15-20 minutes to take the survey.
 
-### Objectives
+2. Respond to these reflection questions:
+* 
+
+3. Fill out [these brainstorming sheets]( for your new Junior Developer Flower. You should reference your previous Flower Exercise
+
+
+### Session Objectives
 * 
 
 ### Review of Pairin
@@ -43,6 +49,12 @@ Individual Reflections (prompting questions)
 Turn/Talk or Whole Group Sharing Out
 
 ### Review: What is the Flower Exercise?
+This is meant to help you discover your top priorities and most important guiding principles for your immediate job search and your overall career. 
+
+The process for narrowing these pieces down is to follow these three steps:
+1. Brainstorm using these sheets
+2. 
+3.
 
 ### Creating the Flower
 
@@ -86,6 +98,7 @@ In the workplace:
 Petal #5: Salary & Level of Responsibility
 Level of responsibility: 
 Petal #6: Preferred place to live
+* Narrow down your top 3 markets and why...
 Petal #7: Goal/Purpose/Mission in life
 Longterm goals: 
 Where do you want to be in 2 years into this career?
