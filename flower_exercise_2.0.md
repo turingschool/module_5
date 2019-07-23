@@ -4,13 +4,14 @@
 
 Session Time: 60 minutes
 
-Structure:
+Agenda:
 
 * Opening/Objectives (3 mins)
 * Review of Pairin (10 mins)
 * What's Changed for You (15 mins)
-* Review: What is the Flower Exercise? (5 mins)
-* Creating the Flower (15 mins)
+* Review: What is the Flower Exercise? (2 mins)
+* Small Group Discussion (6 mins)
+* Creating the Flower (12 mins)
 * Application: Creating Next Steps (10 mins)
 * Closing (2 mins)
 
@@ -52,11 +53,21 @@ Turn/Talk or Whole Group Sharing Out
 This is meant to help you discover your top priorities and most important guiding principles for your immediate job search and your overall career. 
 
 The process for narrowing these pieces down is to follow these three steps:
-1. Brainstorm using these sheets
-2. 
-3.
+1. Brainstorm -- you did this in your session prework
+2. Synthesize
+3. Prioritize
+
+In order to synthesize and make sense of the information that came up for you, please review the worksheets you worked on prior to today's session.
+
+#### Small Group Discussion: Synthesis
+In your small groups, share the answers to these questions:
+
+* 
+*
+*
 
 ### Creating the Flower
+Now take the information from your discussion and 
 
 ### Application: Creating Next Steps
 What can you do with all this information to help you in your job search? 
