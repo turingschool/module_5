@@ -2,7 +2,7 @@
 
 ## Create Your Junior Developer Flower
 
-*The following includes an adapted exercise from Richard Bolles's Flower Exercise found in his book* [What Color is Your Parachute?](https://www.amazon.com/What-Color-Your-Parachute-2019/dp/0399581685/ref=sr_1_2?crid=R8AO3ITNK1TT&keywords=what+color+is+your+parachute&qid=1563989639&s=books&sprefix=what+color%2Caps%2C156&sr=1-2)
+*The following includes an adapted version of Richard Bolles's Flower Exercise found in his book* [What Color is Your Parachute?](https://www.amazon.com/What-Color-Your-Parachute-2019/dp/0399581685/ref=sr_1_2?crid=R8AO3ITNK1TT&keywords=what+color+is+your+parachute&qid=1563989639&s=books&sprefix=what+color%2Caps%2C156&sr=1-2)
 
 Session Time: 60 minutes
 
@@ -41,7 +41,7 @@ Session participation requires completing the following steps. Please give yours
 * 
 
 ### Review of Pairin
-
+Pairin is an assessment that measures over 100 coachable skills and mindsets...
 
 ### What's Changed for You
 Turn/Talk or Whole Group Sharing Out
