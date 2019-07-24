@@ -59,8 +59,11 @@ In order to synthesize and make sense of the information that came up for you, p
 #### Small Group Discussion: Synthesis
 In your small groups, share the answers to these questions:
 
-* 
-*
+* Petal #1: Technology & Industries:
+  * What does your brainstorming tell you about how do you prefer to approach problem-solving? 
+  * What understanding do you have of the problems of your preferred industries? How could you find out more? 
+* Petal #2: 
+  Pairin driver prompting questions
 *
 
 ### Creating the Flower
@@ -68,6 +71,8 @@ Now take the information from your discussion to build out your Junior Developer
 
 ### Application: Creating Next Steps
 What can you do with all this information to help you in your job search? 
+
+* Petal #1: description of process; description/list of interest
 
 **Action Step:** 
 
@@ -78,22 +83,6 @@ Flower
 Application piece -- responses to questions for roadmap for renewed strategy
 
 
-Categories:
-Petal #1: Favorite Knowledges And/Or Fields of Interest
-Favorite technologies; favorite projects; industries of interest for your career
-Pairin Thinking Style: how do you prefer to approach problem-solving? What understanding do you have of the problems of your preferred industries? How could you find out more? 
-Worksheets to go with this: listing out things; prompting questions; sentence stems
-Application: description of process; description/list of interest
-Petal #2: Preferred Kinds of People to Work With
-User empathy: how to build tech for people who are like you? How do you build tech for people who aren’t like you?
-Ideal manager
-How do you create this manager? How do you ask for what you need?
-Ideal peer/team relationships
-How do you create/cultivate this?
-How do you create code empathy? 
-How do you talk about yourself as someone people want to work with?
-Pairin Driver -- prompting questions
-Application: 
 Petal #3: Transferable Skills
 
 
@@ -107,12 +96,7 @@ Petal #5: Salary & Level of Responsibility
 Level of responsibility: 
 Petal #6: Preferred place to live
 * Narrow down your top 3 markets and why...
-Petal #7: Goal/Purpose/Mission in life
-Longterm goals: 
-Where do you want to be in 2 years into this career?
-5 years?
-10 years?
-What is your career mission?
+
 
 Reflection Questions:
 What has changed since you first did the Flower Exercise in Mod 2?
