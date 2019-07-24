@@ -2,6 +2,8 @@
 
 ## Create Your Junior Developer Flower
 
+*The following includes an adapted exercise from Richard Bolles's Flower Exercise found in his book* [What Color is Your Parachute?](https://www.amazon.com/What-Color-Your-Parachute-2019/dp/0399581685/ref=sr_1_2?crid=R8AO3ITNK1TT&keywords=what+color+is+your+parachute&qid=1563989639&s=books&sprefix=what+color%2Caps%2C156&sr=1-2)
+
 Session Time: 60 minutes
 
 Agenda:
@@ -16,22 +18,22 @@ Agenda:
 * Closing (2 mins)
 
 ### Prework for Session
-1. In order to participate in the session, please retake the Pairin survey [here](https://survey.pairin.com/signup/22142/student)
+Session participation requires completing the following steps. Please give yourself 1-2 hours total for these exercises:
 
-Important reminders for taking the survey:
+1. Please retake the Pairin survey [here](https://survey.pairin.com/signup/22142/student). Important reminders for taking the survey:
 * There are 2 sections for this survey:
    * First section: Choose adjectives to answer _how you currently are_
    * Second section: Choose or de-select adjectives to answer _how you would like to be_. The second section is marked as "optional," but it is highly recommended that you fill out this section in order to provide more data for you on how you'd like to grow. 
-* The survey should take you about 15-20 minutes
+* The survey should take you about 15-20 minutes.
 
 2. Read through your results and use [this document](https://docs.google.com/document/d/1LIR7gITKqOX2ewcOqp_KTkj3Phqjk4ZKoOrpUdidvwM/edit?usp=sharing) to help you understand what each category means. Respond to these reflection questions:
 * What, if anything, was different about your top 4 qualities?
 * What do these results tell you about yourself?
 * Describe in your own words how you'd describe each of the following in terms of what it means for you as a software developer:
-  * 1. Top Thinking Style
-  * 2. Most Intense Driver
-  * 3. Top EQ Competency
-  * 4. Highest Virtue Class
+  * 1. Thinking Style (how do you think best?)
+  * 2. Most Intense Driver (what drives you?)
+  * 3. Top EQ Competency (how do you lead with emotional intelligence?)
+  * 4. Highest Virtue Class (how does this help you manage and overcome problems? How can this virtue help you with relationships? How does this virtue help enahnce health and overall well-being?) 
   
 3. Fill out [these brainstorming sheets](https://docs.google.com/document/d/1Xa0mi3K1sZYXjVhwL9bLVXOuEGsvJ7RCQOoMf4MtzWs/edit?usp=sharing) for your new Junior Developer Flower.
 
@@ -41,23 +43,14 @@ Important reminders for taking the survey:
 ### Review of Pairin
 
 
-With your new top 4 qualities, answer these questions:
-
-1. Thinking Style (how do you think best?)
-2. Most Intense Driver (what drives you?)
-3. Top EQ Competency (how do you lead with emotional intelligence?)
-4. Highest Virtue Class (how does this help you manage and overcome problems? How can this virtue help you with relationships? How does this virtue help enahnce health and overall well-being?) 
-
 ### What's Changed for You
-Individual Reflections (prompting questions)
-
 Turn/Talk or Whole Group Sharing Out
 
 ### Review: What is the Flower Exercise?
 This is meant to help you discover your top priorities and most important guiding principles for your immediate job search and your overall career. 
 
 The process for narrowing these pieces down is to follow these three steps:
-1. Brainstorm -- you did this in your session prework
+1. Brainstorm -- *you did this in your session prework*
 2. Synthesize
 3. Prioritize
 
@@ -71,7 +64,7 @@ In your small groups, share the answers to these questions:
 *
 
 ### Creating the Flower
-Now take the information from your discussion and 
+Now take the information from your discussion to build out your Junior Developer Flower. You'll want to print this sheet 
 
 ### Application: Creating Next Steps
 What can you do with all this information to help you in your job search? 
