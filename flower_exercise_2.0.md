@@ -16,20 +16,24 @@ Agenda:
 * Closing (2 mins)
 
 ### Prework for Session
-1. In order to participate in the session, please retake the Pairin survey [here](
+1. In order to participate in the session, please retake the Pairin survey [here](https://survey.pairin.com/signup/22142/student)
 
 Important reminders for taking the survey:
-*
-*
-*
+* There are 2 sections for this survey:
+   * First section: Choose adjectives to answer _how you currently are_
+   * Second section: Choose or de-select adjectives to answer _how you would like to be_. The second section is marked as "optional," but it is highly recommended that you fill out this section in order to provide more data for you on how you'd like to grow. 
+* The survey should take you about 15-20 minutes
 
-You should allow 15-20 minutes to take the survey.
-
-2. Respond to these reflection questions:
-* 
-
-3. Fill out [these brainstorming sheets]( for your new Junior Developer Flower. You should reference your previous Flower Exercise
-
+2. Read through your results and use [this document](https://docs.google.com/document/d/1LIR7gITKqOX2ewcOqp_KTkj3Phqjk4ZKoOrpUdidvwM/edit?usp=sharing) to help you understand what each category means. Respond to these reflection questions:
+* What, if anything, was different about your top 4 qualities?
+* What do these results tell you about yourself?
+* Describe in your own words how you'd describe each of the following in terms of what it means for you as a software developer:
+  * 1. Top Thinking Style
+  * 2. Most Intense Driver
+  * 3. Top EQ Competency
+  * 4. Highest Virtue Class
+  
+3. Fill out [these brainstorming sheets](https://docs.google.com/document/d/1Xa0mi3K1sZYXjVhwL9bLVXOuEGsvJ7RCQOoMf4MtzWs/edit?usp=sharing) for your new Junior Developer Flower.
 
 ### Session Objectives
 * 
