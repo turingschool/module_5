@@ -17,3 +17,4 @@ Keep practicing behavioral questions with friends and family. Comfort in talking
 
 ### Additional Resources
 - [More questions to practice](https://yangshun.github.io/tech-interview-handbook/questions-to-ask/) 
+- Complete take-home technical challenge for next week
