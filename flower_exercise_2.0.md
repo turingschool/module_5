@@ -10,7 +10,7 @@ Agenda:
 
 * Opening/Objectives (3 mins)
 * Review of Pairin (10 mins)
-* What's Changed for You (15 mins)
+* Small Group Discussion: What's Changed for You (15 mins)
 * Review: What is the Flower Exercise? (2 mins)
 * Small Group Discussion (6 mins)
 * Creating the Flower (12 mins)
@@ -204,10 +204,10 @@ The results from your survey can help you identify some of your strengths and po
 ### Articulating Your Strengths: What's Changed for You
 With the above uses in mind, let's practice articulating your strengths in different contexts.
 
-#### Turn/Talk (or Whole Group Sharing Out)
-Respond to these questions with a partner:
+#### Small Group Discussions:
 
-* 1. (From the prework) Describe in your own words each of the following in terms of what it means for you as a software developer:
+* 1. What's changed for you in your results or how have you seen yourself change and grow over the past year? 
+* 2. (From the prework) Describe in your own words each of the following in terms of what it means for you as a software developer:
   * A. Thinking Style (how do you think best?)
     * How can you use your Top Thinking Style to structure your approach in the job search? 
   * B. Most Intense Driver (what drives you?)
