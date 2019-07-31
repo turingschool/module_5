@@ -243,7 +243,11 @@ Now take the information from your discussion to build out your Junior Developer
 ### Application: Creating Next Steps
 Let's combine our discussion about Pairin with our discussion on the Flower Exercise -- what can you do with all this information to help you in your job search? 
 
+#### Share Out
+Each person will get an opportunity to share out their takeaways for their action steps. 
+
 **Action Step:** 
+Road map for renewed strategy...
 
 ### Closing
 Next steps:
@@ -252,8 +256,6 @@ Looking Ahead:
 
 Any remaining questions? 
 
-Flower
-Application piece -- responses to questions for roadmap for renewed strategy
 
 * Petal #1: description of process; description/list of interest
 
