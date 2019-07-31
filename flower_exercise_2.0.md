@@ -112,8 +112,8 @@ These are categorized in 4 areas:
     * Rationality
   * NF
 
-Potential question for the group:
-* How are each of these strengths? What would they look like in action?
+**Question for the group:**
+* How are each of these strengths? What could that look like in action? 
 
 #### Drivers 
 Psychologist Henry Murray outlined a set of psychological needs that—-alone or in combination—-drive specific behaviors. Murray believed that everyone has the same set of needs but that individuals experience them in different intensities. These Drivers are based on Murray’s needs. The three domains (Love, Work & Growth) are derived from the core concepts of Abraham Maslow, Edgar Schein and James Sales. 
@@ -139,9 +139,8 @@ Psychologist Henry Murray outlined a set of psychological needs that—-alone or
    * Vitality: Enthusiast 
    * Self-Blame: Microscope 
    
-Potential questions for the group:
-* Who had a driver that particularly resonated with them? Why? 
-* How are each of these strengths? What would they look like in action?
+**Question for the group:** 
+* How are each of these strengths? What could they look like in action? 
 
 #### Emotional Intelligence (EQ) Competencies 
 The definition of Emotional Intelligence or EQ (first advanced by researchers Peter Salavoy and John Mayer, but popularized by author Daniel Goleman) is the ability to:
@@ -149,7 +148,7 @@ The definition of Emotional Intelligence or EQ (first advanced by researchers Pe
 * Recognize, understand and manage our own emotions
 * Recognize, understand and influence the emotions of others
 
-In practical terms, developing EQ means gaining awareness that emotions drive our behavior and impact people (positively and negatively) and learning to manage those emotions — both our own and others — especially when we are under pressure. The EQ framework has four categories comprising 18 competencies as outlined below.
+In practical terms, developing EQ means gaining awareness that emotions drive our behavior and impact people (positively and negatively) and learning to manage those emotions — both our own and others — especially when we are under pressure. The EQ framework has four categories comprising 18 competencies that fall under 4 areas as outlined below.
 
 * Self-Awareness 
   * Emotional Self-Awareness: Self-Attuned
@@ -176,6 +175,9 @@ In practical terms, developing EQ means gaining awareness that emotions drive ou
   * Change:	Transformer 
   * Conflict Management: Conflict Wrangler 
   * Cooperative-Practical: Team Player 
+  
+**Question for the group:**
+* How are these areas of emotional intelligence strengths? What could they look like in action? 
 
 #### Virtue Classes
 Six broad virtues classifying 24 specific strengths that consistently emerge as “good” across history and culture. Pairin’s virtues map to Character Strengths and Virtues (Peterson, C., & Seligman, M. E. P., 2004), the work of a prestigious group of researchers who have attempted to create a systematic classification and measurement of widely valued positive traits. Their aim was to present a measure of humanist ideals of virtue in an empirical and scientific way.  
@@ -189,9 +191,10 @@ Knowing your leading virtue class and associated strengths isn’t just interest
 * Wisdom & Knowledge:	Lover of Wisdom 
 * Temperance:	Lover of Moderation 
 
+**Questions for the group:**
+* How is a virtue a strength? What could that look like in action? 
 
-
-#### Why is this information useful? 
+#### Why is knowing this information about yourself useful? 
 The results from your survey can help you identify some of your strengths and potential areas for growth so that you have language to help you:
 
 * Answer interview questions in which you need to describe your strengths and thinking processes
@@ -204,16 +207,15 @@ With the above uses in mind, let's practice articulating your strengths in diffe
 #### Turn/Talk (or Whole Group Sharing Out)
 Respond to these questions with a partner:
 
-* 1. (From the prework) Describe in your own words how you'd describe each of the following in terms of what it means for you as a software developer:
+* 1. (From the prework) Describe in your own words each of the following in terms of what it means for you as a software developer:
   * A. Thinking Style (how do you think best?)
+    * How can you use your Top Thinking Style to structure your approach in the job search? 
   * B. Most Intense Driver (what drives you?)
+    * How can you use your Top Driver to *drive* your job search?
   * C. Top EQ Competency (how do you lead with emotional intelligence?)
+    * How can you use your Emotional Intelligence in your job search?  
   * D. Highest Virtue Class (how does this help you manage and overcome problems? How can this virtue help you with relationships? How does this virtue help enahnce health and overall well-being?)
-* 2. How have you seen yourself grow and change over the past year? 
-* 3. What does this information tell you about what kind of environment and team you would thrive in?
-* 4. Why will knowing all of this information help you in your job search?
-
-Share out your response to #4 in a whip-around in the whole group.
+    * How could you use your top Virtue Class to guide your job search? 
 
 ### Review: What is the Flower Exercise?
 This is meant to help you discover your top priorities and most important guiding principles for your immediate job search and your overall career. 
