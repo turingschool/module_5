@@ -10,12 +10,12 @@ Agenda:
 
 * Opening/Objectives (3 mins)
 * Review of Pairin (10 mins)
-* Small Group Discussion: What's Changed for You (15 mins)
+* Small Group Discussion: What's Changed for You (10 mins)
 * Review: What is the Flower Exercise? (2 mins)
-* Small Group Discussion (6 mins)
-* Creating the Flower (12 mins)
+* Small Group Discussion (10 mins)
+* Creating the Flower (10 mins)
 * Application: Creating Next Steps (10 mins)
-* Closing (2 mins)
+* Closing/Remaining Questions (5 mins)
 
 ### Prework for Session
 Session participation requires completing the following steps. Please give yourself 1-2 hours total for these exercises:
@@ -218,7 +218,7 @@ With the above uses in mind, let's practice articulating your strengths in diffe
     * How could you use your top Virtue Class to guide your job search? 
 
 ### Review: What is the Flower Exercise?
-This is meant to help you discover your top priorities and most important guiding principles for your immediate job search and your overall career. 
+The Flower Exercise is meant to help you discover your top priorities and most important guiding principles for your immediate job search and your overall career. Use this to help you **focus** your job search so that you can follow a clear path rather than meander through your search. 
 
 The process for narrowing these pieces down is to follow these three steps:
 1. Brainstorm -- *you did this in your session prework*
@@ -238,21 +238,24 @@ In your small groups, share the answers to these questions:
 *
 
 ### Creating the Flower
-Now take the information from your discussion to build out your Junior Developer Flower. You'll want to print this sheet 
+Now take the information from your discussion to build out your Junior Developer Flower. Ideally, you'll want to print this sheet out to use 
 
 ### Application: Creating Next Steps
-What can you do with all this information to help you in your job search? 
-
-* Petal #1: description of process; description/list of interest
+Let's combine our discussion about Pairin with our discussion on the Flower Exercise -- what can you do with all this information to help you in your job search? 
 
 **Action Step:** 
 
 ### Closing
+Next steps:
 
+Looking Ahead:
+
+Any remaining questions? 
 
 Flower
 Application piece -- responses to questions for roadmap for renewed strategy
 
+* Petal #1: description of process; description/list of interest
 
 Petal #3: Transferable Skills
 
