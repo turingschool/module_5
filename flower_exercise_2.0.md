@@ -41,10 +41,30 @@ Session participation requires completing the following steps. Please give yours
 * 
 
 ### Review of Pairin
-Pairin is an assessment that measures over 100 coachable skills and mindsets...
+What is Pairin again? Pairin is an assessment that measures over 100 coachable and changeable professional skills and mindsets ranging from conflict management to empathy to leadership. 
 
-### What's Changed for You
-Turn/Talk or Whole Group Sharing Out
+Why is this information useful? The results from your survey can help you identify some of your strengths and potential areas for growth so that you have language to help you:
+
+* Answer interview questions in which you need to describe your strengths and thinking processes
+* Communicate and set expectations with team members
+* Structure your job search so that you're seeking out opportunities and people that will allow you to use your strengths best and thrive
+
+### Articulating Your Strengths: What's Changed for You
+With the above uses in mind, let's practice articulating your strengths in different contexts.
+
+#### Turn/Talk (or Whole Group Sharing Out)
+Respond to these questions with a partner:
+
+* 1. (From the prework) Describe in your own words how you'd describe each of the following in terms of what it means for you as a software developer:
+  * A. Thinking Style (how do you think best?)
+  * B. Most Intense Driver (what drives you?)
+  * C. Top EQ Competency (how do you lead with emotional intelligence?)
+  * D. Highest Virtue Class (how does this help you manage and overcome problems? How can this virtue help you with relationships? How does this virtue help enahnce health and overall well-being?)
+* 2. How have you seen yourself grow and change over the past year? 
+* 3. What does this information tell you about what kind of environment and team you would thrive in?
+* 4. Why will knowing all of this information help you in your job search?
+
+Share out your response to #4 in a whip-around in the whole group.
 
 ### Review: What is the Flower Exercise?
 This is meant to help you discover your top priorities and most important guiding principles for your immediate job search and your overall career. 
