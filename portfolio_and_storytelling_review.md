@@ -15,6 +15,6 @@
   6) Regroup and review
 
 ### Next Steps
-  - Complete 'Junior Developer Flower Exercise' prior to next week's session.
+  - Complete 'Junior Developer Flower Exercise' [prework](https://github.com/turingschool/module_5/blob/master/flower_exercise_2.0.md) prior to next week's session.
   - Continue to practice your story with friends, family or the mirror.
 
