@@ -49,8 +49,11 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 * [We Work Remotely Job Board](https://weworkremotely.com/)
 * [Current Listing of Remote Dev Jobs](https://remoteok.io/remote-dev-jobs)
 * [Flex Jobs](https://www.flexjobs.com/)
+* [Hatchways](https://hatchways.io/#/) helps connect juniors with their first jobs in tech by identifying skill gaps and talking through goals for your job search. 
+* [Key Values](https://www.keyvalues.com/) allows you to search for companies that fit with your key values.
 * [People of Color in Tech](https://www.pocitjobs.com/) is a job site specifically for People of Color in tech.
 * [reacHire](http://www.reachire.com/women/jobs) is a job site specifically for connecting women with companies that value inclusion. 
+* [This Dot](https://www.thisdot.co/hirethefempire) hires women-presenting, frontend junior developers.
 * [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
 * [Diversify Tech](https://www.diversifytech.co/) is a job site built specifically for underrepresented groups in tech.
 * [Include.io](https://include.io/) is a job site built to connect underrepresented groups in tech with employers.
