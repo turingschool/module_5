@@ -37,6 +37,8 @@ Session participation requires completing the following steps. Please give yours
   
 3. Fill out [these brainstorming sheets](https://docs.google.com/document/d/1Xa0mi3K1sZYXjVhwL9bLVXOuEGsvJ7RCQOoMf4MtzWs/edit?usp=sharing) for your new Junior Developer Flower.
 
+4. If you have access to a printer, please [print this sheet](https://docs.google.com/document/d/1xNCrY6NEa2KiJksrZlNufnuuzen91gUN8DLhzdPaI08/edit?usp=sharing) prior to the session. 
+
 ### Session Objectives
 * 
 
@@ -218,14 +220,19 @@ With the above uses in mind, let's practice articulating your strengths in diffe
     * How could you use your top Virtue Class to guide your job search? 
 
 ### Review: What is the Flower Exercise?
-The Flower Exercise is meant to help you discover your top priorities and most important guiding principles for your immediate job search and your overall career. Use this to help you **focus** your job search so that you can follow a clear path rather than meander through your search. 
+The Flower Exercise is meant to help you discover your top priorities and most important guiding principles for your immediate job search and your overall career. 
 
-The process for narrowing these pieces down is to follow these three steps:
+#### Why are we doing this again?
+When we first did the Flower Exercise, it was tailored to help you think about your experiences prior to Turing and how they connect to your new career. This new **Junior Developer Flower Exercise** is meant to *build* on the previous exercise while making more explicit connections to what you've been studying and how you've honed your interests and niches within the tech industry. You've changed after completing Turing's program, and your job search should reflect that. 
+
+Use this new Flower to help you **focus** your job search so that you can follow a clear path rather than meander through your search. 
+
+The process for completing the Junior Developer Flower Exercise is to follow these three steps:
 1. Brainstorm -- *you did this in your session prework*
 2. Synthesize
 3. Prioritize
 
-In order to synthesize and make sense of the information that came up for you, please review the worksheets you worked on prior to today's session.
+In order to synthesize and make sense of the information that came up for you, please review the worksheets you worked on prior to today's session for 3 minutes -- reread what you wrote so that it's fresh in your mind. 
 
 #### Small Group Discussion: Synthesis
 In your small groups, share the answers to these questions:
@@ -234,25 +241,43 @@ In your small groups, share the answers to these questions:
   * What does your brainstorming tell you about how do you prefer to approach problem-solving? 
   * What understanding do you have of the problems of your preferred industries? How could you find out more? 
 * Petal #2: 
+  * 
   Pairin driver prompting questions
-*
+* Petal #3:
+* Petal #4:
+* Petal #5:
+* Petal #6:
+* Petal #7: 
 
 ### Creating the Flower
-Now take the information from your discussion to build out your Junior Developer Flower. Ideally, you'll want to print this sheet out to use 
+Now take the information from your discussion to build out your Junior Developer Flower. Ideally, you'll want to [print the first sheet here to use](https://docs.google.com/document/d/1xNCrY6NEa2KiJksrZlNufnuuzen91gUN8DLhzdPaI08/edit?usp=sharing) during this section. If you don't have access to a printer, then use the [second sheet in this doc](https://docs.google.com/document/d/1xNCrY6NEa2KiJksrZlNufnuuzen91gUN8DLhzdPaI08/edit?usp=sharing). 
 
-### Application: Creating Next Steps
-Let's combine our discussion about Pairin with our discussion on the Flower Exercise -- what can you do with all this information to help you in your job search? 
+### Application: Creating a New Strategy
+Let's combine our discussion about Pairin with our discussion on the Flower Exercise -- what can you do with all this information to help you in your job search? For starters, you can create a more specific 
+
+Respond to these questions in your journal and then we'll share out to the whole group:
+1. Industry/company I want to target: 
+2. Here is the problem they are trying to solve: 
+3. Why I want to work at this company/in this industry: 
+4. Next steps I will take are: 
+5. I will complete these next steps by this time:
+
+You can answer these for multiple companies/industries if you'd like.
+
+Example:
+1. I want to target StitchFix
+2. They are solving the problem of how customers find clothing that matches their taste and preferences by finding the clothes and sending them to the customer, which takes out effort and time constraints for the customer and makes it convenient fro them 
+3. I am very interested in fashion tech, and I have a background in retail and marketing that helps me understand customers' needs
+4. I will reach out to alumni who work at StitchFix, find out about openings they have, and start working on a specific side project that utilizes their tech stack or does demonstrates how I could do the work they're looking for. 
+5. I will find an alum to reach out to today and get a phone call or coffee meeting on the calendar by the end of next week. After talking with them about what the company looks for, I will figure out a timeline for working on this project.
 
 #### Share Out
-Each person will get an opportunity to share out their takeaways for their action steps. 
-
-**Action Step:** 
-Road map for renewed strategy...
+Each person will get an opportunity to share out their new strategies. 
 
 ### Closing
-Next steps:
-
 Looking Ahead:
+* Next week's session is on cover letters
+* Homework: write a cover letter for a real job posting. Hint: use a job posting related to the new strategy you came up with today!
 
 Any remaining questions? 
 
