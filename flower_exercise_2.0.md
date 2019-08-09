@@ -37,7 +37,7 @@ Session participation requires completing the following steps. Please give yours
   
 3. Fill out [these brainstorming sheets](https://docs.google.com/document/d/1Xa0mi3K1sZYXjVhwL9bLVXOuEGsvJ7RCQOoMf4MtzWs/edit?usp=sharing) for your new Junior Developer Flower.
 
-4. If you have access to a printer, please [print this sheet](https://docs.google.com/document/d/1xNCrY6NEa2KiJksrZlNufnuuzen91gUN8DLhzdPaI08/edit?usp=sharing) prior to the session. 
+4. If you have access to a printer, please [print the first sheet here](https://docs.google.com/document/d/1xNCrY6NEa2KiJksrZlNufnuuzen91gUN8DLhzdPaI08/edit?usp=sharing) prior to the session. 
 
 ### Session Objectives
 * Understand the function of your strengths and preferences in guiding your job search
