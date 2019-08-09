@@ -13,8 +13,8 @@ Agenda:
 * Small Group Discussion: What's Changed for You (10 mins)
 * Review: What is the Flower Exercise? (2 mins)
 * Small Group Discussion (10 mins)
-* Creating the Flower (10 mins)
-* Application: Creating Next Steps (10 mins)
+* Creating the Flower (5 mins)
+* Application: Creating a New Strategy (10 mins)
 * Closing/Remaining Questions (5 mins)
 
 ### Prework for Session
