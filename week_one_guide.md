@@ -1,11 +1,11 @@
 ## Portfolio and Storytelling Review - Facilitator Guide
 
 1. Welcome / Mod 5 Reminders (5 min)
-  - Zoom guide
-  - Homework
-  - Google Calendar
-  - Office hours (by appointment)
-  - Clarification of check in
+    - Zoom guide
+    - Homework
+    - Google Calendar
+    - Office hours (by appointment)
+    - Clarification of check in
   
 2. Portfolio Check (10 min)
   - Robyn's notes on importance of portfolio
