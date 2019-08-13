@@ -6,6 +6,8 @@
     - Google Calendar
     - Office hours (by appointment)
     - Clarification of check in
+    - Agreement introduction
+    - Team introduction
   
 2. Portfolio Check (10 min)
     - Robyn's notes on importance of portfolio
