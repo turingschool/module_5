@@ -4,6 +4,8 @@
 
 *The following includes an adapted version of Richard Bolles's Flower Exercise found in his book* [What Color is Your Parachute?](https://www.amazon.com/What-Color-Your-Parachute-2019/dp/0399581685/ref=sr_1_2?crid=R8AO3ITNK1TT&keywords=what+color+is+your+parachute&qid=1563989639&s=books&sprefix=what+color%2Caps%2C156&sr=1-2)
 
+[Slides for the session](https://docs.google.com/presentation/d/1VtZnbzXQXNrWPqDqC3D5Zne0iU_UKbnCVUeC1l1wKrw/edit?usp=sharing)
+
 Session Time: 60 minutes
 
 Agenda:
@@ -47,6 +49,13 @@ Session participation requires completing the following steps. Please give yours
 ### Review of Pairin
 #### What is Pairin again? 
 Pairin is an assessment that measures over 100 coachable and changeable professional skills and mindsets ranging from conflict management to empathy to leadership. As we explore the Top 4 Pairin qualities again, it's important to note that the attribute in which you have the **highest intensity** in each of these 4 categories is what showed up in your results; you also utilize each of the other attributes but in lower intensities. 
+
+#### Why would this survey be helpful?
+* Looking at the intersection of your knowledge, skills, and talents to maximize your potential and growth 
+* Research shows that tapping into character strengths can help an individual to: 
+1) Buffer against, manage, and overcome problems
+2) Improve relationships
+3) Enhance health and overall well-being
 
 #### Thinking Styles 
 Pairin Thinking Styles are characteristic ways of processing information and handling tasks. This includes how people acquire knowledge, organize thoughts, form views and opinions, apply personal value, plan, decide, solve problems, and express themselves. Thinking styles are NOT the same thing as thinking ability.
@@ -218,7 +227,7 @@ With the above uses in mind, let's practice articulating your strengths in diffe
     * How can you use your Top Driver to *drive* your job search?
   * C. Top EQ Competency (how do you lead with emotional intelligence?)
     * How can you use your Emotional Intelligence in your job search?  
-  * D. Highest Virtue Class (how does this help you manage and overcome problems? How can this virtue help you with relationships? How does this virtue help enahnce health and overall well-being?)
+  * D. Highest Virtue Class (how does this help you manage and overcome problems? How can this virtue help you with relationships? How does this virtue help enhance health and overall well-being?)
     * How could you use your top Virtue Class to guide your job search? 
 
 ### Review: What is the Flower Exercise?
@@ -247,7 +256,7 @@ In your small groups, discuss 2-3 of the petals using the following questions. *
   * What are your takeaways about creating an ideal team?
   * What are your takeaways about your approach to building technology for a variety of users?
 * Petal #3:
-  * What are your top tranferable skills?
+  * What are your top transferable skills?
   * What are 1-2 industries that your skills would be especially helpful for? 
 * Petal #4:
   * How will you seek out a work culture that you want in your job search? 
@@ -278,7 +287,7 @@ You can answer these for multiple companies/industries if you'd like.
 
 **Example:**
 1. I want to target StitchFix
-2. They are solving the problem of how customers find clothing that matches their taste and preferences by finding the clothes and sending them to the customer, which takes out effort and time constraints for the customer and makes it convenient fro them 
+2. They are solving the problem of how customers find clothing that matches their taste and preferences by finding the clothes and sending them to the customer, which takes out effort and time constraints for the customer and makes it convenient for them 
 3. I am very interested in fashion tech, and I have a background in retail and marketing that helps me understand customers' needs
 4. My top thinking style as Objective-Analytical and driver in Order/Specialist demonstrate that I am someone who is very observant and detail-oriented, meaning that I can anticipate customer needs before they have to communicate them. I am always looking at the big picture in a very strategic way. I also like to work with teams and collaborate on ideas, communicating out loud and crowdsourcing the best ideas to continue innovating. I'm not afraid to try out a new idea and will create a plan to test and execute it in an efficient way. 
 5. I will reach out to alumni who work at StitchFix, find out about openings they have, and start working on a specific side project that utilizes their tech stack or does demonstrates how I could do the work they're looking for. 
