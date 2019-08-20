@@ -2,7 +2,7 @@
 Congratulations! You've graduated! As you embark on your job search, here is an aggregate of your PD resources. Start by clicking on the topics listed below:
 
 * [Resumes & Cover Letters](#resumes-cover-letters)
-* [Finding Job Postings](#job-postings)
+* [Finding Job Opportunities](#job-opportunities)
 * [Outreach & Networking](#outreach-networking)
 * [Interview Prep](#interview-prep)
 * [Your GitHub](#github)
@@ -12,52 +12,9 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 * [Resume Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/resume_review_checklist.md)
 * [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md)
 
-## Finding Job Postings <a name="job-postings"></a>
+## Finding Job Opportunities <a name="job-opportunities"></a>
 
-* [LinkedIn](http://www.linkedin.com/)
-   * Tips: 
-      * Use the "Advanced Search" tool to find people based on skillset, location, and industry OR names of companies and select the "People who work at..." option
-      * In "Keywords" type in the skills or focus you want to be working in (i.e., JavaScript, Ruby, Python, EdTech, FinTech, etc.)
-      * In "Location" type in the area where you'd like to work
-      * In "Industry" select "computer software"
-      * Search: Of those profiles that return, look at their profiles to see the list of companies they've worked for. What companies do you want to continue to research? Who do you want to connect with? 
-      * You can also click on the company’s page and on the right side, view "Similar Companies" where your connections work
-* [BuiltIn](http://builtin.com/) is located in Austin, Boston, Chicago, Colorado, LA, and New York 
-* [Github’s Job Board](https://jobs.github.com/)
-* [Glassdoor](https://www.glassdoor.com/index.htm)
-* [Techstars Listing of Companies](https://www.techstars.com/companies/)
-* [Smashing Magazine’s Job Board](http://jobs.smashingmagazine.com/)
-* [Mashable's Job Board](http://jobs.mashable.com/jobs/search/results)
-* [Angel List](https://angel.co/jobs)
-* [Hired](https://hired.com/)
-* [Dice](https://www.dice.com/#)
-* [Stack Overflow Job Board](http://careers.stackoverflow.com/jobs)
-* [Product Hunt](https://www.producthunt.com/jobs)
-* [Hacker News](https://news.ycombinator.com/jobs)
-* [Authentic Jobs](https://authenticjobs.com/)
-* [Krop](https://www.krop.com/)
-* [The Muse](https://www.themuse.com/jobs)
-* [Craigslist](https://denver.craigslist.org/d/software-qa-dba-etc/search/sof) 
-* [Top Ruby Jobs](https://toprubyjobs.com/)
-* [Ruby Weekly](http://rubyweekly.com/)
-* [Ruby Now](https://jobs.rubynow.com/)
-* [JavaScript Weekly](http://javascriptweekly.com/)
-* [gun.io](https://gun.io/)
-* [Startupers](https://www.startupers.com/)
-* [Working Nomads](https://www.workingnomads.co/jobs)
-* [Ars Technica Job Board](http://arstechnica.com/jobs/)
-* [We Work Remotely Job Board](https://weworkremotely.com/)
-* [Current Listing of Remote Dev Jobs](https://remoteok.io/remote-dev-jobs)
-* [Flex Jobs](https://www.flexjobs.com/)
-* [Hatchways](https://hatchways.io/#/) helps connect juniors with their first jobs in tech by identifying skill gaps and talking through goals for your job search. 
-* [Key Values](https://www.keyvalues.com/) allows you to search for companies that fit with your key values.
-* [People of Color in Tech](https://www.pocitjobs.com/) is a job site specifically for People of Color in tech.
-* [reacHire](http://www.reachire.com/women/jobs) is a job site specifically for connecting women with companies that value inclusion. 
-* [This Dot](https://www.thisdot.co/hirethefempire) hires women-presenting, frontend junior developers.
-* [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
-* [Diversify Tech](https://www.diversifytech.co/) is a job site built specifically for underrepresented groups in tech.
-* [Include.io](https://include.io/) is a job site built to connect underrepresented groups in tech with employers.
-* [Owler](https://www.owler.com/) is a great way to conduct research on different companies.
+#### Search by...company
 * [Listing of Colorado Tech Companies](https://bizwest.com/colorado-tech-2017/?member=guest)
     * Tips:
       * Check out the articles and directory here for lots of companies you can add to your research
@@ -71,6 +28,69 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
     * Other Resources:
       * [25 Killer Combos for Google's Site: Operator](https://moz.com/blog/25-killer-combos-for-googles-site-operator)
       * [How to Use Google Search More Effectively](http://mashable.com/2011/11/24/google-search-infographic/)
+* [Owler](https://www.owler.com/) is a great way to conduct research on different companies.
+
+#### Search by...culture
+* [Key Values](https://www.keyvalues.com/) allows you to search for companies that fit with your key values.
+
+* Start Ups:
+  * [Startupers](https://www.startupers.com/)
+  * [Techstars Listing of Companies](https://www.techstars.com/companies/)
+
+* Remote work:
+  * [Remote OK](https://remoteok.io/remote-dev-jobs)
+  * [Working Nomads](https://www.workingnomads.co/jobs?category=development)
+  * [We Work Remotely Job Board](https://weworkremotely.com/)
+  * [Flex Jobs](https://www.flexjobs.com/)
+  
+#### Search by...language or skillset
+* [Top Ruby Jobs](https://toprubyjobs.com/)
+* [Ruby Weekly](http://rubyweekly.com/)
+* [Ruby Now](https://jobs.rubynow.com/)
+* [Ruby on Rails Jobs](https://www.rorjobs.com/)
+* [JavaScript Weekly](http://javascriptweekly.com/)
+* [React Job Board](https://www.reactjobboard.com/)
+* [Python Job Board](https://www.python.org/jobs/)
+* [Elixir Jobs](https://elixirjobs.net/)
+* [Hatchways](https://hatchways.io/#/) helps connect juniors with their first jobs in tech by identifying skill gaps and talking through goals for your job search.
+* [ZipRecruiter](https://www.ziprecruiter.com/) 
+
+#### Search by...network
+* [LinkedIn](http://www.linkedin.com/)
+   * Tips: 
+      * Use the "Advanced Search" tool to find people based on skillset, location, and industry OR names of companies and select the "People who work at..." option
+      * In "Keywords" type in the skills or focus you want to be working in (i.e., JavaScript, Ruby, Python, EdTech, FinTech, etc.)
+      * In "Location" type in the area where you'd like to work
+      * In "Industry" select "computer software"
+      * Search: Of those profiles that return, look at their profiles to see the list of companies they've worked for. What companies do you want to continue to research? Who do you want to connect with? 
+      * You can also click on the company’s page and on the right side, view "Similar Companies" where your connections work
+* [People of Color in Tech](https://www.pocitjobs.com/) is a job site specifically for People of Color in tech.
+* [reacHire](http://www.reachire.com/women/jobs) is a job site specifically for connecting women with companies that value inclusion. 
+* [This Dot](https://www.thisdot.co/hirethefempire) hires women-presenting, frontend junior developers.
+* [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
+* [Diversify Tech](https://www.diversifytech.co/) is a job site built specifically for underrepresented groups in tech.
+* [Include.io](https://include.io/) is a job site built to connect underrepresented groups in tech with employers.
+
+#### Search by...job listings
+* [BuiltIn](http://builtin.com/) is located in Austin, Boston, Chicago, Colorado, LA, New York, and Seattle
+* [GitHub’s Job Board](https://jobs.github.com/)
+* [Glassdoor](https://www.glassdoor.com/index.htm)
+* [Smashing Magazine’s Job Board](http://jobs.smashingmagazine.com/)
+* [Mashable's Job Board](http://jobs.mashable.com/jobs/search/results)
+* [Angel List](https://angel.co/jobs)
+* [Hired](https://hired.com/)
+* [Dice](https://www.dice.com/#)
+* [Stack Overflow Job Board](http://careers.stackoverflow.com/jobs)
+* [Product Hunt](https://www.producthunt.com/jobs)
+* [Hacker News](https://news.ycombinator.com/jobs)
+* [Authentic Jobs](https://authenticjobs.com/)
+* [Krop](https://www.krop.com/)
+* [Indeed](https://www.indeed.com/)
+* [The Muse](https://www.themuse.com/jobs)
+* [Craigslist](https://denver.craigslist.org/d/software-qa-dba-etc/search/sof) 
+* [gun.io](https://gun.io/)
+* [Ars Technica Job Board](http://arstechnica.com/jobs/)
+* And of course, don't forget about the #job-hunt or #module-5 channels on Slack
 
 ## Outreach & Networking <a name="outreach-networking"></a>
 
