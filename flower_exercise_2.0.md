@@ -11,16 +11,18 @@ There are facilitator notes throughout this markdown to divide up responsibiliti
 
 Session Time: 60 minutes
 
+**Slide #2 (Facilitator #1):**
+
 Agenda:
 
-* Opening/Objectives (3 mins)
-* Review of Pairin (10 mins)
-* Small Group Discussion: What's Changed for You (15 mins)
+* Opening/Objectives (2 mins)
+* Review of Pairin (8 mins)
+* Small Group Discussion: What's Changed for You (10-15 mins)
 * Review: What is the Flower Exercise? (2 mins)
-* Small Group Discussion (10 mins)
-* Creating the Flower (5 mins)
-* Application: Creating a New Strategy (10 mins)
-* Closing/Remaining Questions (5 mins)
+* Small Group Discussion (10-15 mins)
+* Creating the Flower (6 mins)
+* Application: Creating a New Strategy (10-15 mins)
+* Closing/Remaining Questions (2 mins)
 
 ### Prework for Session
 Session participation requires completing the following steps. Please give yourself 1-2 hours total for these exercises:
@@ -44,10 +46,14 @@ Session participation requires completing the following steps. Please give yours
 
 4. If you have access to a printer, please [print the first sheet here](https://docs.google.com/document/d/1xNCrY6NEa2KiJksrZlNufnuuzen91gUN8DLhzdPaI08/edit?usp=sharing) prior to the session. 
 
+**Slide #3 (Facilitator #1):**
+
 ### Session Objectives
 * Understand the function of your strengths and preferences in guiding your job search
 * Utilize clear language to describe your strengths for cover letters, coffee meetings, and interview situations
 * Create a more focused strategy for your job search
+
+**Slides #5-16 (Facilitators #1 & #2):**
 
 ### Review of Pairin
 **Note to Facilitators:** As you go through the top 4 Pairin qualities, please share your experience with your own Pairin results as examples to the group of how to reflect on each of these four areas and how you might describe them in your own words.
@@ -167,6 +173,9 @@ The results from your survey can help you identify some of your strengths and po
 ### Articulating Your Strengths: What's Changed for You
 With the above uses in mind, let's practice articulating your strengths in different contexts.
 
+**Slide #17:**
+**Note to Facilitators:** Create breakout rooms in Zoom for groups of 3-4 people (preferably no more than 4) for the following discussion. Take 10-15 minutes for this discussion. 
+
 #### Small Group Discussions:
 
 * 1. What's changed for you in your results or how have you seen yourself change and grow over the past year? 
@@ -180,6 +189,8 @@ With the above uses in mind, let's practice articulating your strengths in diffe
   * D. Highest Virtue Class (how does this help you manage and overcome problems? How can this virtue help you with relationships? How does this virtue help enhance health and overall well-being?)
     * How could you use your top Virtue Class to guide your job search? 
 
+**Slide #19 (Facilitator #2):**
+
 ### Review: What is the Flower Exercise?
 The Flower Exercise is meant to help you discover your top priorities and most important guiding principles for your immediate job search and your overall career. 
 
@@ -188,12 +199,17 @@ When we first did the Flower Exercise, it was tailored to help you think about y
 
 Use this new Flower to help you **focus** your job search so that you can follow a clear path rather than meander through your search. 
 
+**Slide #20 (Facilitator #2):**
+
 The process for completing the Junior Developer Flower Exercise is to follow these three steps:
 1. Brainstorm -- *you did this in your session prework*
 2. Synthesize
 3. Prioritize
 
 In order to synthesize and make sense of the information that came up for you, please review the worksheets you worked on prior to today's session for 3 minutes -- reread what you wrote so that it's fresh in your mind. 
+
+**Slide #21:**
+**Note to Facilitators:** Create breakout rooms in Zoom for groups of 3-4 people (preferably no more than 4) for the following discussion. Take 10-15 minutes for this discussion. 
 
 #### Small Group Discussion: Synthesis
 In your small groups, discuss 2-3 of the petals using the following questions. *If you're not sure of a specific answer, discuss it with your group members to see what they think.*
@@ -219,8 +235,13 @@ In your small groups, discuss 2-3 of the petals using the following questions. *
 * Petal #7: 
   * Share your mission statement and what industries align with it
 
+**Slide #22 (Facilitator #2):**
+
 ### Creating the Flower
 Now take the information from your discussion to build out your Junior Developer Flower. Ideally, you'll want to [print the first sheet here to use](https://docs.google.com/document/d/1xNCrY6NEa2KiJksrZlNufnuuzen91gUN8DLhzdPaI08/edit?usp=sharing) during this section. If you don't have access to a printer, then use the [second sheet in this doc and create your own copy to use](https://docs.google.com/document/d/1xNCrY6NEa2KiJksrZlNufnuuzen91gUN8DLhzdPaI08/edit?usp=sharing). 
+
+**Slide #24 (Facilitator #1):**
+**Note to Facilitators:** Share the below example when explaining this activity. 
 
 ### Application: Creating a New Strategy
 Let's combine our discussion about Pairin with our discussion on the Flower Exercise -- what can you do with all this information to help you in your job search? For starters, you can create a more specific strategy for how you want to structure your job search.  
@@ -245,6 +266,8 @@ You can answer these for multiple companies/industries if you'd like.
 
 #### Share Out
 Each person will get an opportunity to share out their new strategies. 
+
+**Slide #26 (Facilitator #1):**
 
 ### Closing
 Looking Ahead:
