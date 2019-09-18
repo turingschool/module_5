@@ -6,6 +6,10 @@
 
 [Slides for the session](https://docs.google.com/presentation/d/1VtZnbzXQXNrWPqDqC3D5Zne0iU_UKbnCVUeC1l1wKrw/edit?usp=sharing)
 
+UPDATES: 
+-Facilitator instructions
+-Pare down the amount of lecture; more time and focus on group discussions and sharing
+
 Session Time: 60 minutes
 
 Agenda:
