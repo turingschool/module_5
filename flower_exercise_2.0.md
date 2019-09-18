@@ -6,9 +6,8 @@
 
 [Slides for the session](https://docs.google.com/presentation/d/1VtZnbzXQXNrWPqDqC3D5Zne0iU_UKbnCVUeC1l1wKrw/edit?usp=sharing)
 
-UPDATES: 
--Facilitator instructions
--Pare down the amount of lecture; more time and focus on group discussions and sharing
+### Facilitator Notes
+There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
 
 Session Time: 60 minutes
 
@@ -16,7 +15,7 @@ Agenda:
 
 * Opening/Objectives (3 mins)
 * Review of Pairin (10 mins)
-* Small Group Discussion: What's Changed for You (10 mins)
+* Small Group Discussion: What's Changed for You (15 mins)
 * Review: What is the Flower Exercise? (2 mins)
 * Small Group Discussion (10 mins)
 * Creating the Flower (5 mins)
@@ -51,6 +50,8 @@ Session participation requires completing the following steps. Please give yours
 * Create a more focused strategy for your job search
 
 ### Review of Pairin
+**Note to Facilitators:** As you go through the top 4 Pairin qualities, please share your experience with your own Pairin results as examples to the group of how to reflect on each of these four areas and how you might describe them in your own words.
+
 #### What is Pairin again? 
 Pairin is an assessment that measures over 100 coachable and changeable professional skills and mindsets ranging from conflict management to empathy to leadership. As we explore the Top 4 Pairin qualities again, it's important to note that the attribute in which you have the **highest intensity** in each of these 4 categories is what showed up in your results; you also utilize each of the other attributes but in lower intensities. 
 
@@ -64,73 +65,15 @@ Pairin is an assessment that measures over 100 coachable and changeable professi
 #### Thinking Styles 
 Pairin Thinking Styles are characteristic ways of processing information and handling tasks. This includes how people acquire knowledge, organize thoughts, form views and opinions, apply personal value, plan, decide, solve problems, and express themselves. Thinking styles are NOT the same thing as thinking ability.
 
-The 4 Thinking Styles utilize the Jungian psychological types in which Perceiving and Judging approaches are broken down into Sensing, Intuition, Thinking, and Feeling:
-* Perceiving (information-gathering)
-  * Sensing (S): Focusing on what can be perceived using the 5 senses
-  * Intuition (N): Focusing on perceiving patterns and interrelationships
-* Judging (decision-making)
-  * Thinking (T): The mental process of interpreting what is perceived; can be active or passive
-  * Feeling (F: Evaluating or judging what something or someone is worth based on reflection; "fight or flight" instinct
-
-All of these functions can be either Introverted (I) or Extraverted (E) 
-
-Our top thinking style shows our dominant approach to how we process information and handle tasks using that psychology. 
-
-These are categorized in 4 areas:
-
+Pairin categorizes these into 4 areas:
 * **Cooperative-Practical:** Conventional, structured, and contented approach that moderates thoughts and feelings
-  * Reasonable, organized, systematized
-  * Trusting, caring, loyal
-  * Upbeat, understanding, and respectful
-  * Struggle to anticipate issues or connect causes
-  * High intensity attributes:
-    * Supportiveness
-    * Steady Optimism
-    * Sociability
-    * Enriching Others
-  * Jungian: ST
-
 * **Imaginative-Inspirational:** Feelings, impressions, informality, or action are emphasized more than rational evaluating
-  * Adventurous, clever, skilled in social tactics
-  * Enjoy lightness, five senses and festivity
-  * Strong passion, impulse, and emotions
-  * Favor feeling over facts, logic, or introspection
-  * High intensity attributes:
-    * Feeling & Impression
-    * Spontaneity
-    * Playfulness
-    * Intense Originality
-  * SF
-
 * **Intuitive-Conceptual:** Instinct and rationale are synthesized, resulting in versatile, unconventional, and often unyielding ideas and behavior
-  * Identify associations, patterns, and causes
-  * Resourceful and unconventional
-  * Socially uninterested
-  * Convinced of their own unorthodox views
-  * Fault-finding, blaming 
-  * High intensity attributes:
-    * Independence
-    * Determination
-    * Assertiveness
-    * Creative/Critical Thinking
-  * NT
-
 * **Objective-Analytical:** Rational thought is emphasized more than sentiment, resulting in logical clear thinking and productivity
-  * Observant, thorough, detail-oriented
-  * Thoughtful and assertive
-  * Value reason/rules
-  * Their high value for planning and efficiency may slide to rigidity 
-  * High intensity attributes: 
-    * Achievement
-    * Responsibility
-    * Productivity
-    * Persistence
-    * Order & Duty
-    * Rationality
-  * NF
-
-**Question for the group:**
-* How are each of these strengths? What could that look like in action? 
+  
+**Quick Discussion:**
+* How are each of these strengths? 
+* What do they look like in action? 
 
 #### Drivers 
 Psychologist Henry Murray outlined a set of psychological needs that—-alone or in combination—-drive specific behaviors. Murray believed that everyone has the same set of needs but that individuals experience them in different intensities. These Drivers are based on Murray’s needs. The three domains (Love, Work & Growth) are derived from the core concepts of Abraham Maslow, Edgar Schein and James Sales. 
@@ -156,8 +99,9 @@ Psychologist Henry Murray outlined a set of psychological needs that—-alone or
    * Vitality: Enthusiast 
    * Self-Blame: Microscope 
    
-**Question for the group:** 
-* How are each of these strengths? What could they look like in action? 
+**Quick Discussion:** 
+* How are each of these strengths? 
+* What do they look like in action? 
 
 #### Emotional Intelligence (EQ) Competencies 
 The definition of Emotional Intelligence or EQ (first advanced by researchers Peter Salavoy and John Mayer, but popularized by author Daniel Goleman) is the ability to:
@@ -194,7 +138,8 @@ In practical terms, developing EQ means gaining awareness that emotions drive ou
   * Cooperative-Practical: Team Player 
   
 **Question for the group:**
-* How are these areas of emotional intelligence strengths? What could they look like in action? 
+* How do these areas of emotional intelligence function as strengths? 
+* What do they look like in action? 
 
 #### Virtue Classes
 Six broad virtues classifying 24 specific strengths that consistently emerge as “good” across history and culture. Pairin’s virtues map to Character Strengths and Virtues (Peterson, C., & Seligman, M. E. P., 2004), the work of a prestigious group of researchers who have attempted to create a systematic classification and measurement of widely valued positive traits. Their aim was to present a measure of humanist ideals of virtue in an empirical and scientific way.  
@@ -209,7 +154,8 @@ Knowing your leading virtue class and associated strengths isn’t just interest
 * Temperance:	Lover of Moderation 
 
 **Questions for the group:**
-* How is a virtue a strength? What could that look like in action? 
+* How is a virtue a strength? 
+* What do these look like in action? 
 
 #### Why is knowing this information about yourself useful? 
 The results from your survey can help you identify some of your strengths and potential areas for growth so that you have language to help you:
