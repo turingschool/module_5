@@ -15,14 +15,14 @@ Session Time: 60 minutes
 
 Agenda:
 
-* Opening/Objectives (2 mins)
-* Review of Pairin (8 mins)
-* Small Group Discussion: What's Changed for You (10-15 mins)
+* Opening/Objectives (1 min)
+* Quick Overview of Pairin (2 mins)
+* Small Group Discussion: What's Changed for You (15 mins)
 * Review: What is the Flower Exercise? (2 mins)
-* Small Group Discussion (10-15 mins)
-* Creating the Flower (6 mins)
-* Application: Creating a New Strategy (10-15 mins)
-* Closing/Remaining Questions (2 mins)
+* Small Group Discussion (15 mins)
+* Creating the Flower (5 mins)
+* Application: Creating a New Strategy (15 mins)
+* Sharing Out/Closing/Remaining Questions (5 mins)
 
 ### Prework for Session
 Session participation requires completing the following steps. Please give yourself 1-2 hours total for these exercises:
@@ -53,7 +53,7 @@ Session participation requires completing the following steps. Please give yours
 * Utilize clear language to describe your strengths for cover letters, coffee meetings, and interview situations
 * Create a more focused strategy for your job search
 
-**Slides #5-16 (Facilitators #1 & #2):**
+**Slides #5-7 (Facilitators #1 & #2):**
 
 ### Review of Pairin
 **Note to Facilitators:** As you go through the top 4 Pairin qualities, please share your experience with your own Pairin results as examples to the group of how to reflect on each of these four areas and how you might describe them in your own words.
